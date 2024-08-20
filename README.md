@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="[https://te.legra.ph/file/5d5642103804ae180e40b.jpg]([https://graph.org/file/d6b17ce95885fbcf08c93.jpg]([https://graph.org/file/d6b17ce95885fbcf08c93.jpg](https://graph.org/file/d6b17ce95885fbcf08c93.jpg)))" alt="The-VashuBot" width=500 height=300>
+  <img src="[[[https://te.legra.ph/file/5d5642103804ae180e40b.jpg](https://graph.org/file/982ec4ada80588eb9de3d.jpg)](https://graph.org/file/d6b17ce95885fbcf08c93.jpg)]([https://graph.org/file/d6b17ce95885fbcf08c93.jpg]([[https://graph.org/file/d6b17ce95885fbcf08c93.jpg]([https://graph.org/file/982ec4ada80588eb9de3d.jpg](https://graph.org/file/982ec4ada80588eb9de3d.jpg))](https://graph.org/file/d6b17ce95885fbcf08c93.jpg)))" alt="The-VashuBot" width=500 height=300>
 </p>
 
 <h6 align="center">
